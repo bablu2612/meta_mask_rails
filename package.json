@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@tailwindcss/ui": "~0.7.2",
+    "tailwindcss": "1.4",
+    "tailwindcss-stimulus-components": "^3.0.1"
+  }
+}
